@@ -13,6 +13,7 @@
 //     return count
 // };
 
+
 const binaryArrayToNumber = arr => {
     // your code
     let count = 0
