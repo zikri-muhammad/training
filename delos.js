@@ -8,7 +8,7 @@ const findSourCandies = (students, candies, first) => {
 }
 
 console.log(findSourCandies(5,3,1));
-
+//  sab
 
 // Soal Nomor dua 
 const calculateFine = (returnedDate, expectedDate) => {
